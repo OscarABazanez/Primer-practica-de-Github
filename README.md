@@ -16,7 +16,7 @@
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 *Solo para personas que quieren aprender
-
+* Aprender a documentar el codigo
 ## Lo mejor de todo completamente didactico
 * Una gran cantidad de ejercicios
 * Variedad de problemas
