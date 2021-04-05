@@ -19,7 +19,8 @@
 * Aprender a documentar el codigo
 * Buenas y malas practicas
 * Conociendo un nuevo mundo
-
+* Y mucho conocimiento
+* Siempre aprende algo nuevo
 
 ## Lo mejor de todo completamente didactico
 * Una gran cantidad de ejercicios
