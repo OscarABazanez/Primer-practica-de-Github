@@ -15,9 +15,10 @@
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
-*Solo para personas que quieren aprender
+* Solo para personas que quieren aprender
 * Aprender a documentar el codigo
 * Buenas y malas practicas
+* Conociendo un nuevo mundo
 
 
 ## Lo mejor de todo completamente didactico
