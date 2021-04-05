@@ -15,6 +15,7 @@
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
+*Solo para personas que quieren aprender
 
 ## Lo mejor de todo completamente didactico
 * Una gran cantidad de ejercicios
