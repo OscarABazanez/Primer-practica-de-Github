@@ -17,6 +17,9 @@
 * Disponible para todas las edades
 *Solo para personas que quieren aprender
 * Aprender a documentar el codigo
+* Buenas y malas practicas
+
+
 ## Lo mejor de todo completamente didactico
 * Una gran cantidad de ejercicios
 * Variedad de problemas
